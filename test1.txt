@@ -17,3 +17,4 @@ conventional commits: 1. fix:"Bug fix message"
   It opens editor to enter the multi line commit message. For single line commit message use git commit -m "message"
 
 7. git push 
+8. git pull
