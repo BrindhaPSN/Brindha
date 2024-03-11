@@ -1,1 +1,19 @@
 This is a test file created to check git versioning.
+I have learned today: 
+1. git --version
+2. git config --global user.name "name"
+3. git config --global user.email "email"
+4. git add filename/git add .
+5. git commit -m "commit message"
+conventional commits: 1. fix:"Bug fix message"
+                      2. feat:"added new feature message"
+                      3. !fix:"Attention message:This fix affects other workers"
+                      4. docs:"Some documentation addition/changes"
+                      5. chores:"Regular change not affects anything"
+
+    Ex: git commit -m "feat:Added code for pulling Customer details"
+
+6. git commit
+  It opens editor to enter the multi line commit message. For single line commit message use git commit -m "message"
+
+7. git push 
